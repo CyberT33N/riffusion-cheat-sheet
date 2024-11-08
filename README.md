@@ -1,7 +1,7 @@
 # riffusion-cheat-sheet
 
 ## Install
-- https://github.com/riffusion/riffusion-app-hobby
+- https://github.com/riffusion/riffusion-hobby
 - https://github.com/riffusion/riffusion-app-hobby
 
 Clone `riffusion-hobby` & `riffusion-app-hobby`
